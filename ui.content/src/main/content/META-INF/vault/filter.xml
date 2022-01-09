@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/Git" mode="merge"/>
+    <filter root="/content/Git" mode="merge"/>
+    <filter root="/content/dam/Git" mode="merge"/>
+    <filter root="/content/experience-fragments/Git" mode="merge"/>
+</workspaceFilter>
